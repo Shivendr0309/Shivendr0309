@@ -30,7 +30,7 @@ A production-ready MERN blogging platform with JWT authentication, Cloudinary in
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS • JWT
 
-🔗 **Live Demo:** [Live Demo]((https://bioarchive-blog.vercel.app/))
+🔗 **Live Demo:** [Live Demo](https://bioarchive-blog.vercel.app/)
 
 💻 **Source Code:** [BioArchive](https://github.com/Shivendr0309/BioArchive)
 
@@ -41,7 +41,7 @@ An AI-powered real-time chat application featuring Google Perspective API for in
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • Socket.IO • JWT
 
-🔗 **Live Demo:** [Live Demo]((https://shivendr0309.github.io/Safe-Chat/))
+🔗 **Live Demo:** [Live Demo](https://shivendr0309.github.io/Safe-Chat/)
 
 💻 **Source Code:** [SafeChat](https://github.com/Shivendr0309/SafeChat)
 
