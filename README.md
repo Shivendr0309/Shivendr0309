@@ -26,50 +26,43 @@ Building scalable web applications with clean code.
 ## 🚀 Featured Projects
 
 ### 📝 BioArchive
-Production-ready MERN blogging platform featuring JWT authentication, role-based access control, Cloudinary integration, responsive UI, bookmarks, comments, reading history, and RESTful APIs.
+A production-ready MERN blogging platform with JWT authentication, Cloudinary integration, responsive UI, and RESTful APIs.
 
-**Tech:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS • JWT • Cloudinary
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS • JWT
+
+🔗 **Live Demo:** [Live Demo]((https://bioarchive-blog.vercel.app/))
+
+💻 **Source Code:** [BioArchive](https://github.com/Shivendr0309/BioArchive)
 
 ---
 
 ### 🤖 SafeChat
-AI-powered real-time chat application with intelligent content moderation using Google Perspective API and Socket.IO.
+An AI-powered real-time chat application featuring Google Perspective API for intelligent content moderation and secure messaging.
 
-**Tech:** React.js • Node.js • Express.js • MongoDB • Socket.IO • JWT
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Socket.IO • JWT
 
----
+🔗 **Live Demo:** [Live Demo]((https://shivendr0309.github.io/Safe-Chat/))
 
-### ✅ Task Manager
-Secure MERN task management application with CRUD operations, authentication, and responsive design.
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,cpp,java,html,css,tailwind,vite,git,github,postman,vscode&perline=8" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivendr0309&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivendr0309&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+💻 **Source Code:** [SafeChat](https://github.com/Shivendr0309/SafeChat)
 
 ---
 
-## 🔥 Contribution Streak
+### 🌐 Portfolio
+A responsive developer portfolio showcasing projects, technical skills, and professional experience.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+🔗 **Live Demo:** [Portfolio](https://shivendr0309.github.io/Portfolio/)
+
+💻 **Source Code:** [Portfolio](https://github.com/Shivendr0309/Portfolio)
+
+
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shivendr0309&theme=github-dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivendr0309&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivendr0309&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
 ---
 
 ## 🌱 Currently Learning
