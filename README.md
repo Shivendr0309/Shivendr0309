@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivendra Singh</h1>
 
 <h3 align="center">
-Full Stack Developer | MERN Stack Enthusiast
+Full Stack Developer • MERN Stack • React • Node.js
 </h3>
 
 <p align="center">
@@ -9,22 +9,19 @@ Building scalable web applications with clean code.
 </p>
 
 <p align="center">
-<a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
-<a href="https://www.linkedin.com/in/shivendra-dev/">LinkedIn</a> •
-<a href="mailto:sshivendra503@gmail.com">Email</a>
+<a href="YOUR_PORTFOLIO_LINK">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/shivendra-dev/">💼 LinkedIn</a> •
+<a href="mailto:sshivendra503@gmail.com">📧 Email</a>
 </p>
-
----
 
 ## 💫 About Me
 
-- 💻 Passionate about Full Stack Web Development
-- 🌱 Currently learning **System Design** and **Advanced Backend Development**
-- 🔭 Building scalable MERN applications
-- 🧠 Solved 100+ DSA problems in C++
-- 🎯 Looking for Software Development Internship opportunities
-
----
+- 💻 Full Stack Developer focused on building scalable web applications.
+- 🚀 Built and deployed multiple MERN applications including BioArchive and SafeChat.
+- 🔐 Experienced in developing secure REST APIs with JWT Authentication.
+- 🧠 Strong foundation in Data Structures & Algorithms using C++.
+- 🌱 Currently exploring System Design and Backend Architecture.
+- 🤝 Open to Software Development Internship and Full-Time opportunities.
 
 ## 🚀 Featured Projects
 
@@ -47,29 +44,11 @@ Secure MERN task management application with CRUD operations, authentication, an
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-
-JavaScript • C++ • Python • Java • SQL
-
-### Frontend
-
-React.js • HTML5 • CSS3 • Tailwind CSS • Vite
-
-### Backend
-
-Node.js • Express.js • REST APIs • JWT Authentication
-
-### Database
-
-MongoDB • MongoDB Atlas
-
-### Tools
-
-Git • GitHub • Postman • VS Code • Cloudinary • Render • Vercel
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,cpp,java,html,css,tailwind,vite,git,github,postman,vscode&perline=8" />
+</p>
 
 ## 📊 GitHub Stats
 
