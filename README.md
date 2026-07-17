@@ -9,7 +9,7 @@ Building scalable web applications with clean code.
 </p>
 
 <p align="center">
-<a href="YOUR_PORTFOLIO_LINK">🌐 Portfolio</a> •
+<a href="https://shivendr0309.github.io/Portfolio/">🌐 Portfolio</a> •
 <a href="https://www.linkedin.com/in/shivendra-dev/">💼 LinkedIn</a> •
 <a href="mailto:sshivendra503@gmail.com">📧 Email</a>
 </p>
